@@ -1,11 +1,9 @@
 # Hotel Database Application
 
 ## Provided Files
-Implemented and Filled Hotel database
-
-SQL Schemas
-
-SQL Populating table
+Implemented and Filled Hotel database<br/>
+SQL Schemas<br/>
+SQL Populating table<br/>
 
 
 ## Overview
